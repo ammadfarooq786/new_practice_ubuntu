@@ -6,5 +6,10 @@ age = 22        # Integer
 height = 5.7    # Float
 <br>
 is_student = True  # Boolean
-
 print(name, age, height, is_student)
+python
+.
+.
+.
+.
+programming
